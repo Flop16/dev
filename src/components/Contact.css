@@ -32,7 +32,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap; 
+
 }
 
 .contact .content .buttons-container {
@@ -69,7 +69,7 @@
     }
 
     .contact .content {
-        flex-direction: column; /* En pantallas pequeñas, los botones estarán uno debajo del otro */
+        flex-direction: column;
     }
 
     .contact .content .buttons-container {
@@ -77,79 +77,6 @@
     }
 }
 
-
-/*
-.contact {
-    margin: 5rem auto;
-    padding: 1rem;
-    width: 100%;
-    align-items: center;
-}
-
-.contact .container {
-    width: 90%; 
-    max-width: 1240px;
-    margin: 4rem auto;
-    padding: 4rem 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.contact h2 {
-    font-size: 3rem;
-    font-family: 'Inder', sans-serif;
-    font-weight: bold;
-    text-align: center;
-}
-
-.contact .container p {
-    text-align: center;
-    font-family: 'Inder';
-    margin: 2rem 0; 
-}
-
-.contact .container .content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.contact .content .buttons-container .button {
-    margin: 1rem 0; 
-    width: 100%; 
-    max-width: 200px;
-    padding: 0.5rem 1rem; 
-    font-size: 1rem;
-    line-height: 2rem;
-    color: #FFFFFF;
-    background-color: #3d2152;
-    border: none;
-    border-radius: 8px;
-    text-align: center;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-.contact .content .buttons-container .button a {
-    color: inherit;
-    text-decoration: none;
-}
-
-.contact .content .button:hover {
-    background-color: #5a3b7f;
-}
-
-@media screen and (max-width: 940px) {
-    .contact .container {
-        width: 100%;
-    }
-}
-
-
-
-*/
 
 
 
