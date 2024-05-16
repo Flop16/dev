@@ -85,4 +85,8 @@
     .projects .container {
         width: 100%;
     }
+    .projects .card {
+        margin: 0 1em;
+    }
+  
 }
