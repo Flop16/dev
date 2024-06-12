@@ -17,7 +17,7 @@ const Contact = () => {
                         <button className='button'><a href="https://github.com/Flop16" target="_blank" rel="noopener noreferrer"><i className="bi bi-github"></i>&nbsp; GitHub</a></button>
                     </div>
                     <div className='buttons-container'>
-                        <button className='button'><a href="mailto:florenciauehara@gmail.com" target="_blank" rel="noopener noreferrer"><i className="bi bi-envelope-fill"></i>&nbsp; ¡Escríbeme!</a></button>
+                        <button className='button'><a href="mailto:flouehara@gmail.com" target="_blank" rel="noopener noreferrer"><i className="bi bi-envelope-fill"></i>&nbsp; ¡Escríbeme!</a></button>
                     </div>
 
                 </div>
