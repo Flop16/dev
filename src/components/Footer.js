@@ -10,7 +10,7 @@ const Footer = () => {
                         <a href='/'>Inicio</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#about'>About</a>
+                        <a href='#about'>Acerca de mí</a>
                     </li>
                     <li className='nav-item'>
                         <a href='#projects'>Proyectos</a>
