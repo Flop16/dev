@@ -8,6 +8,15 @@ const Projects = () => {
                 <h2>Proyectos</h2>
                 <span className='line'></span>
                 <div className='content'>
+                <div className='card'>
+                        <div className='card-content'>
+                            <p><span>Portfolio</span></p>
+                            <p>Este portfolio ha sido diseñado y codificado por mí, poniendo en práctica lo aprendido.</p>
+                        </div>
+                        <div className='button-container'>
+                            <button className='button'><a href="https://flouehara.netlify.app/" target="_blank" rel="noopener noreferrer"><i className="bi bi-window"></i>&nbsp; Ir al sitio</a></button>
+                        </div>
+                    </div>
                     <div className='card'>
                         <div className='card-content'>
                             <p><span>Landing SAIA</span></p>
