@@ -19,7 +19,16 @@ const Projects = () => {
                     </div>
                     <div className='card'>
                         <div className='card-content'>
-                            <p><span>Generador de contraseñas</span></p>
+                            <p><span>Control de Gastos </span></p>
+                            <p>Proyecto de JS que formó parte del segundo desafío de un evento de programación.</p>
+                        </div>
+                        <div className='button-container'>
+                            <button className='button'><a href="https://expense-control-flo.netlify.app/" target="_blank" rel="noopener noreferrer"><i className="bi bi-window"></i>&nbsp; Ir al sitio</a></button>
+                        </div>
+                    </div>
+                    <div className='card'>
+                        <div className='card-content'>
+                            <p><span>Generador de Contraseñas</span></p>
                             <p>Proyecto de JS que formó parte del primer desafío de un evento de programación.</p>
                         </div>
                         <div className='button-container'>
