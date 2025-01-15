@@ -15,9 +15,6 @@ const Footer = () => {
                     <li className='nav-item'>
                         <a href='#projects'>Proyectos</a>
                     </li>
-                    <li className='nav-item'>
-                        <a href='#contact'>Contacto</a>
-                    </li>
                 </ul>
                 <div className='bottom'>
                     <span className='line'></span>
