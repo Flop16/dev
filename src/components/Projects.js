@@ -38,7 +38,7 @@ const Projects = () => {
                     <div className='card'>
                         <div className='card-content'>
                             <p><span>Sitio Bienestar</span></p>
-                            <p>Sitio realizado en el curso para poner en práctica el uso de ReactJS, uso de API rest, y aplicar lo aprendido en Frontend.</p>
+                            <p>Sitio ficticio realizado en el curso para poner en práctica el uso de ReactJS, uso de API rest, y aplicar lo aprendido en Frontend.</p>
                         </div>
                         <div className='button-container'>
                             <button className='button'><a href="https://masajes-react.netlify.app" target="_blank" rel="noopener noreferrer"><i className="bi bi-window"></i>&nbsp; Ir al sitio</a></button>
@@ -47,7 +47,7 @@ const Projects = () => {
                     <div className='card'>
                         <div className='card-content'>
                             <p><span>Sitio Pastelería</span></p>
-                            <p>Sitio realizado en el curso para finalizar desarrollo Frontend, con el uso de HTML, JavaScript, CSS y Bootstrap.</p>
+                            <p>Sitio ficticio realizado en el curso para finalizar desarrollo Frontend, con el uso de HTML, JavaScript, CSS y Bootstrap.</p>
                         </div>
                         <div className='button-container'>
                             <button className='button'><a href="https://pasteleria-front.netlify.app" target="_blank" rel="noopener noreferrer"><i className="bi bi-window"></i>&nbsp; Ir al sitio</a></button>
