@@ -37,15 +37,6 @@ const Projects = () => {
                     </div>
                     <div className='card'>
                         <div className='card-content'>
-                            <p><span>Landing SAIA</span></p>
-                            <p>Estoy en un voluntariado en el cual formo parte del equipo que se encarga de la landing de la Sociedad Argentina de Inteligencia Artificial.</p>
-                        </div>
-                        <div className='button-container'>
-                            <button className='button'><a href="https://saia.ar/" target="_blank" rel="noopener noreferrer"><i className="bi bi-window"></i>&nbsp; Ir al sitio</a></button>
-                        </div>
-                    </div>
-                    <div className='card'>
-                        <div className='card-content'>
                             <p><span>Sitio Bienestar</span></p>
                             <p>Sitio realizado en el curso para poner en práctica el uso de ReactJS, uso de API rest, y aplicar lo aprendido en Frontend.</p>
                         </div>
