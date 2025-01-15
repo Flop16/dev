@@ -14,7 +14,7 @@ const Projects = () => {
                             <p>Este portfolio ha sido diseñado y codificado por mí, poniendo en práctica lo aprendido.</p>
                         </div>
                         <div className='button-container'>
-                            <button className='button'><a href="https://flouehara.netlify.app/" target="_blank" rel="noopener noreferrer"><i className="bi bi-window"></i>&nbsp; Ir al sitio</a></button>
+                            <button className='button'><a href="https://floueharadev.netlify.app/" target="_blank" rel="noopener noreferrer"><i className="bi bi-window"></i>&nbsp; Ir al sitio</a></button>
                         </div>
                     </div>
                     <div className='card'>
